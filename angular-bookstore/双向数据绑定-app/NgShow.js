@@ -6,4 +6,4 @@ myCSSModule.controller('DeathrayMenuController', ['$scope',
             $scope.menuState.show = !$scope.menuState.show;
         };
     }
-])
+]);
